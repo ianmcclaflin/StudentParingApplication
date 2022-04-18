@@ -8,5 +8,9 @@ namespace StudenPairing
 {
     class DigitalCurrencyConverter
     {
+
+
+
+
     }
 }
